@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="144" started-at="2021-07-14T11:53:51 IST" finished-at="2021-07-14T11:53:51 IST">
+    <groups>
+      <group name="demo">
+        <method signature="AnnatonsPrograms.method1()[pri:1, instance:com.TestNg.Programs.AnnatonsPrograms@32464a14]" name="method1" class="com.TestNg.Programs.AnnatonsPrograms"/>
+        <method signature="AnnatonsPrograms.method()[pri:1, instance:com.TestNg.Programs.AnnatonsPrograms@32464a14]" name="method" class="com.TestNg.Programs.AnnatonsPrograms"/>
+      </group> <!-- demo -->
+    </groups>
+    <test name="Default test" duration-ms="144" started-at="2021-07-14T11:53:51 IST" finished-at="2021-07-14T11:53:51 IST">
+      <class name="com.TestNg.Programs.AnnatonsPrograms">
+        <test-method status="PASS" signature="conectDB()[pri:0, instance:com.TestNg.Programs.AnnatonsPrograms@32464a14]" name="conectDB" is-config="true" duration-ms="80" started-at="2021-07-14T11:53:51 IST" finished-at="2021-07-14T11:53:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- conectDB -->
+        <test-method status="PASS" signature="conectLP()[pri:0, instance:com.TestNg.Programs.AnnatonsPrograms@32464a14]" name="conectLP" is-config="true" duration-ms="8" started-at="2021-07-14T11:53:51 IST" finished-at="2021-07-14T11:53:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- conectLP -->
+        <test-method status="PASS" signature="start_bike()[pri:0, instance:com.TestNg.Programs.AnnatonsPrograms@32464a14]" name="start_bike" is-config="true" duration-ms="0" started-at="2021-07-14T11:53:51 IST" finished-at="2021-07-14T11:53:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start_bike -->
+        <test-method status="PASS" signature="method1()[pri:1, instance:com.TestNg.Programs.AnnatonsPrograms@32464a14]" name="method1" duration-ms="16" started-at="2021-07-14T11:53:51 IST" finished-at="2021-07-14T11:53:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method status="PASS" signature="stop_bike()[pri:0, instance:com.TestNg.Programs.AnnatonsPrograms@32464a14]" name="stop_bike" is-config="true" duration-ms="0" started-at="2021-07-14T11:53:51 IST" finished-at="2021-07-14T11:53:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stop_bike -->
+        <test-method status="PASS" signature="start_bike()[pri:0, instance:com.TestNg.Programs.AnnatonsPrograms@32464a14]" name="start_bike" is-config="true" duration-ms="0" started-at="2021-07-14T11:53:51 IST" finished-at="2021-07-14T11:53:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start_bike -->
+        <test-method status="PASS" signature="method()[pri:1, instance:com.TestNg.Programs.AnnatonsPrograms@32464a14]" name="method" duration-ms="8" started-at="2021-07-14T11:53:51 IST" depends-on-methods="com.TestNg.Programs.AnnatonsPrograms.method1" finished-at="2021-07-14T11:53:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method -->
+        <test-method status="PASS" signature="stop_bike()[pri:0, instance:com.TestNg.Programs.AnnatonsPrograms@32464a14]" name="stop_bike" is-config="true" duration-ms="0" started-at="2021-07-14T11:53:51 IST" finished-at="2021-07-14T11:53:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stop_bike -->
+        <test-method status="PASS" signature="disconnectLP()[pri:0, instance:com.TestNg.Programs.AnnatonsPrograms@32464a14]" name="disconnectLP" is-config="true" duration-ms="0" started-at="2021-07-14T11:53:51 IST" finished-at="2021-07-14T11:53:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- disconnectLP -->
+        <test-method status="PASS" signature="disconnectDB()[pri:0, instance:com.TestNg.Programs.AnnatonsPrograms@32464a14]" name="disconnectDB" is-config="true" duration-ms="0" started-at="2021-07-14T11:53:51 IST" finished-at="2021-07-14T11:53:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- disconnectDB -->
+      </class> <!-- com.TestNg.Programs.AnnatonsPrograms -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
